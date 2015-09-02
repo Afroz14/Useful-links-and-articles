@@ -12,3 +12,6 @@ http://himanshu.gilani.info/blog/2012/09/26/bootstraping-a-node-dot-js-app-for-d
 
 **Design pattern for nodejs applications(which i follow generally)**<br>
 http://www.terlici.com/2014/08/25/best-practices-express-structure.html
+
+**Javascript Engineering blog**<br>
+https://blog.risingstack.com/
